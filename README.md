@@ -8,6 +8,11 @@ I"m a Software Engineer who is passionate about building tech, teaching and lear
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazrul-dev/)[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nazrul_dev)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazrul.devs@gmail.com)[![Web Badge](https://img.shields.io/badge/Web-blueviolet?style=for-the-badge&logo=webauthn&logoColor=whaite)](https://nazrul.dev/)
 
+### 💻 My favorite device!
+
+[<img alt="2021 Apple MacBook Pro (14-inch, Apple M1 Pro chip with 8‑core CPU and 14‑core GPU, 16GB RAM, 512GB SSD) - Space Gray" width="40px" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09JQSLL92&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=nzlnadeem-20&language=en_US" />](https://www.amazon.com/Apple-MacBook-14-inch-8%E2%80%91core-14%E2%80%91core/dp/B09JQSLL92?qid=1650141443&refinements=p_n_feature_thirty-one_browse-bin%3A23716058011&rnid=23716050011&s=pc&sr=1-1&linkCode=li2&tag=nzlnadeem-20&linkId=3a604baac551a92accfd0e7ef92e6db1&language=en_US&ref_=as_li_ss_il)
+
+
 ### 💻 Stack I Work With
 <p  align="center">
 <!-- Programming Language -->
