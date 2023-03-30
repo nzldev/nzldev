@@ -37,15 +37,6 @@ I"m a Software Engineer who is passionate about building tech, teaching and lear
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25">
 
- 
-    <div>
-      <a class="donate-with-crypto"
-        href="https://commerce.coinbase.com/checkout/e5603fce-7942-4f5b-94a0-d8da2d9f1e8e">
-        Donate with Crypto
-      </a>
-      <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-      </script>
-    </div>
 
 
 <br>
@@ -65,7 +56,9 @@ I"m a Software Engineer who is passionate about building tech, teaching and lear
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nzldev&show_icons=true&theme=buefy" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nzldev&theme=buefy" />
-  
+ <br>
+ [Donate with Crypto](https://commerce.coinbase.com/checkout/e5603fce-7942-4f5b-94a0-d8da2d9f1e8e)
+ 
  <br><br>
  <img src="https://activity-graph.herokuapp.com/graph?username=nzldev&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="nzldev" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzldev&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="nzldev" height="165" /> -->
