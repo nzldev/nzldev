@@ -61,5 +61,6 @@ I"m a Software Engineer who is passionate about building tech, teaching and lear
  
  <br><br>
  <img src="https://activity-graph.herokuapp.com/graph?username=nzldev&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="nzldev" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzldev&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="nzldev" height="165" /> -->
+[![languages](https://github.com/nzldev/nzldev/blob/master/generated/languages.svg)](https://github.com/nzldev?tab=repositories&q=&type=public&language=&sort=stargazers)
+
 </p>
