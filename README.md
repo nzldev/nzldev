@@ -318,9 +318,9 @@ I also enjoy exploring product architecture, SaaS platforms, business automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nzldev&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" width="49%" alt="GitHub Overview" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nzldev&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" width="49%" alt="GitHub Overview" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzldev&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Most Used Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzldev&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Most Used Languages" /> -->
 
 <img src="https://streak-stats.demolab.com?user=nzldev&hide_border=true&theme=transparent" width="70%" alt="GitHub Contribution Streak" />
 
