@@ -318,11 +318,11 @@ I also enjoy exploring product architecture, SaaS platforms, business automation
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzldev&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=nzldev&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" width="49%" alt="GitHub Overview" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzldev&layout=compact&hide_border=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzldev&layout=compact&hide_border=true&theme=transparent" width="49%" alt="Most Used Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nzldev&hide_border=true&theme=transparent)
+<img src="https://streak-stats.demolab.com?user=nzldev&hide_border=true&theme=transparent" width="70%" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -334,7 +334,7 @@ I'm always interested in connecting with engineers, developers, open-source main
 
 - **GitHub:** [@nzldev](https://github.com/nzldev)
 - **Website:** [WAVEINNO](https://waveinno.com)
-- **LinkedIn:** [Nazrul Islam](https://www.linkedin.com/in/nazrul-islam/)
+- **LinkedIn:** [Nazrul Islam](https://www.linkedin.com/in/nzldev/)
 - **Email:** [Get in touch](mailto:nazrul.devs@gmail.com)
 
 <div align="center">
